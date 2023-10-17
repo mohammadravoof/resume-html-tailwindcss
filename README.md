@@ -1,2 +1,2 @@
 # resume-html-tailwindcss
-resume using html and tailwindcss.github.io
+mohammadravoof.github.io/resume-html-tailwindcss/resume.html
